@@ -1,0 +1,15 @@
+﻿@model tarea.Models.Calcular
+
+@{
+    ViewBag.Title = "Multiplicar";
+}
+
+<h2>Multiplicar</h2>
+@using (@Html.BeginForm())
+{
+    @Html.TextBoxFor(operador=>operador.a)<br />
+    @Html.TextBoxFor(operador=>operador.b)<br />
+    <input type="submit" value="MULTIPLICAR" />
+    <p>El resultado es: @ViewBag.resultado</p>
+   
+}

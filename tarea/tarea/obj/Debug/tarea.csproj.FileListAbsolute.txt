@@ -1,0 +1,7 @@
+D:\SEMINARIO\tarea\tarea\bin\tarea.dll
+D:\SEMINARIO\tarea\tarea\bin\tarea.pdb
+D:\SEMINARIO\tarea\tarea\bin\EntityFramework.dll
+D:\SEMINARIO\tarea\tarea\bin\EntityFramework.xml
+D:\SEMINARIO\tarea\tarea\obj\Debug\ResolveAssemblyReference.cache
+D:\SEMINARIO\tarea\tarea\obj\Debug\tarea.dll
+D:\SEMINARIO\tarea\tarea\obj\Debug\tarea.pdb

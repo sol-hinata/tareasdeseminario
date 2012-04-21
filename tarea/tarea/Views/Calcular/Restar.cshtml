@@ -1,0 +1,16 @@
+﻿@model tarea.Models.Calcular
+
+@{
+    ViewBag.Title = "Restar";
+}
+
+<h2>Restar</h2>
+@using (@Html.BeginForm())
+{
+    @Html.TextBoxFor(operador=>operador.a)<br />
+    @Html.TextBoxFor(operador=>operador.b)<br />
+    <input type="submit" value="RESTAR" />
+    <p>El resultado es: @ViewBag.resultado</p>
+   
+}
+
